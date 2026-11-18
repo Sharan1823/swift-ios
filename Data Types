@@ -1,0 +1,18 @@
+var age: Int = 21
+
+var salary: Double = 25000.50
+
+var percentage: Float = 85.5
+
+var name: String = "Arun"
+
+var grade: Character = "A"
+
+var isStudent: Bool = true
+
+print(age)
+print(salary)
+print(percentage)
+print(name)
+print(grade)
+print(isStudent)
